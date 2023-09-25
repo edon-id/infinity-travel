@@ -34,7 +34,7 @@ const CardDetail: NextPage<Props> = ({ arrangement }) => {
     <>
       <div className={style.header}>
         <div className={style.leftLine}></div>
-        <h3>{arrangement.name}</h3>
+        <h3>{arrangement?.name}</h3>
         <div className={style.rightLine}></div>
       </div>
       <div className={style.container}>
@@ -56,16 +56,16 @@ const CardDetail: NextPage<Props> = ({ arrangement }) => {
           <div className={style.location}>
             <img src="/location.png" alt="location" style={{ width: "20px" }} />
             <h4>
-              {arrangement.location.country}, {arrangement.location.city}
+              {arrangement?.location.country}, {arrangement?.location.city}
             </h4>
           </div>
         </div>
         <div className={style.hotelName} id="opis">
-          <h3>{arrangement.name}</h3>
+          <h3>{arrangement?.name}</h3>
         </div>
         <div className={style.description}>
           <p>
-            {arrangement.detailsDesc3}
+            {arrangement?.detailsDesc3}
             <br />
             <br />
             Цените во табелата се однесуваат за наем на студио/апартман за 7
