@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 95%;
+  margin: 0 auto;
+  padding: 40px 0;
+}
+
+.header .leftLine {
+  height: 100%;
+  width: 560px;
+  border-top: 1px solid gray;
+  margin-right: 10px;
+}
+
+.header .rightLine {
+  height: 100%;
+  width: 560px;
+  border-top: 1px solid gray;
+  margin-left: 10px;
+}
+
+.container {
+  width: 85%;
+  margin: 0 auto;
+  padding: 40px 0;
+}
+
+.container h2 {
+  margin-bottom: 20px;
+}
+
+.container p {
+  margin-bottom: 40px;
+}

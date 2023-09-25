@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+}
+
+.fa-caret-down {
+  color: #21b0b7;
+}
+
+.fa-caret-right {
+  color: #21b0b7;
+}
+
+.fa-star {
+  color: #ffcc16;
+}
+
+.fa-chevron-down {
+  color: #21b0b7;
+}
+
+.fa-bars {
+  color: #21b0b7;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}

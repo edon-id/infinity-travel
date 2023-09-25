@@ -1,0 +1,103 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: black;
+}
+
+.navbar ul {
+  display: flex;
+  list-style: none;
+  margin-right: 20px;
+}
+
+.navbar ul li {
+  display: flex;
+  margin-left: 40px;
+}
+
+.phone {
+  width: 16px;
+  height: 16px;
+  top: 32px;
+  left: 1297px;
+  rotate: -17.47°;
+}
+
+.phone2 {
+  display: flex;
+  align-items: center;
+}
+
+.phone2 a {
+  text-decoration: none;
+  color: black;
+}
+
+.smallMenu {
+  position: absolute;
+  top: 75px;
+  left: 531px;
+  background-color: white;
+  width: 146px;
+  height: fit-content;
+  z-index: 1005;
+}
+
+.smallMenu ul {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 12px;
+  list-style: none;
+}
+
+.smallMenu ul li {
+  margin-left: 20px;
+  margin-top: 12px;
+  padding: 6px 0 12px 0;
+  cursor: pointer;
+}
+
+.hamburgerMenu {
+  display: none;
+}
+
+.onMobileMenu {
+  display: none;
+}
+
+@media only screen and (max-width: 425px) {
+  .navbar ul {
+    display: none;
+  }
+
+  .navbar ul li {
+    margin-left: 10px;
+  }
+
+  .hamburgerMenu {
+    display: block;
+    margin-right: 20px;
+  }
+
+  .smallMenu {
+    top: 75px;
+    left: 202px;
+  }
+
+  .onMobile {
+    display: block;
+    position: absolute;
+    top: 75px;
+    left: 0;
+    padding: 10px;
+    z-index: 1000;
+    background-color: white;
+    list-style-type: none;
+  }
+}

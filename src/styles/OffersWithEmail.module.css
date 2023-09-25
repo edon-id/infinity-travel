@@ -1,0 +1,40 @@
+.offersWithEmail {
+  background-color: #21b0b7;
+  padding: 20px 0;
+}
+
+.container {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.margin {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.margin img {
+  margin-right: 40px;
+  cursor: pointer;
+}
+
+.margin p {
+  margin-right: 20px;
+  text-align: center;
+}
+
+@media only screen and (max-width: 425px) {
+  .container {
+    width: 90%;
+    margin: 0 auto;
+  }
+  .margin img {
+    width: 30px;
+    height: 30px;
+  }
+
+  .margin p {
+    font-size: 14px;
+  }
+}

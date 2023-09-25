@@ -1,0 +1,67 @@
+.container a {
+  text-decoration: none;
+  color: black;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+  padding: 60px 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+.destinations ul,
+.informations ul,
+.other ul {
+  list-style: none;
+  padding-top: 10px;
+}
+
+.destinations ul li,
+.informations ul li,
+.other ul li {
+  margin-bottom: 7px;
+  cursor: pointer;
+}
+
+.contactDesc {
+  padding-top: 10px;
+}
+
+.contactDesc p {
+  padding-bottom: 10px;
+}
+
+.socials {
+  padding: 10px 0;
+}
+
+.socials img {
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 425px) {
+  .container {
+    padding: 20px 0;
+    justify-content: normal;
+    flex-wrap: wrap;
+  }
+
+  .destinations,
+  .informations,
+  .other {
+    flex-basis: 25%;
+    margin-right: 12px;
+  }
+
+  .contact {
+    margin-top: 20px;
+  }
+
+  .socials img {
+    width: 25px;
+    margin-right: 8px;
+  }
+}

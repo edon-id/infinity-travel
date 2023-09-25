@@ -1,0 +1,104 @@
+.grid {
+  width: 90%;
+  margin: 50px auto;
+  padding: 10px;
+  display: flex;
+}
+
+.container2 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 95%;
+  margin: 0 auto;
+  height: fit-content;
+  transition: transform 0.5s ease;
+}
+
+.container {
+  height: fit-content;
+  border: 1px solid lightgray;
+  border-radius: 4px;
+  margin-right: 20px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.container .image {
+  width: 100%;
+  height: 183px;
+}
+
+.info {
+  padding: 10px;
+}
+
+.infoOne {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+.infoOneLeft h4 {
+  padding-bottom: 5px;
+}
+
+.infoOneLeft span {
+  margin-right: 6px;
+  color: gray;
+  font-family: Open Sans;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+}
+
+.infoOneRight {
+  width: fit-content;
+}
+
+.infoTwo {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.infoTwoLeft {
+  display: flex;
+  flex-direction: column;
+}
+
+.infoTwoLeft span {
+  font-size: 14px;
+  padding-bottom: 5px;
+  color: gray;
+  font-family: Open Sans;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+}
+
+.infoTwoRight h4 {
+  text-align: end;
+}
+
+.btnMore button {
+  width: 275px;
+  height: 44px;
+  padding: 13px 24px 13px 24px;
+  border-radius: 4px;
+  border: 3px solid #ffcc16;
+  background-color: transparent;
+  gap: 10px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 425px) {
+  .container {
+    margin: 20px auto;
+  }
+}

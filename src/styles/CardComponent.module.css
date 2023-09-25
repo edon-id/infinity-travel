@@ -1,0 +1,60 @@
+.grid {
+  width: 90%;
+  margin: 50px auto;
+  padding: 10px;
+  display: flex;
+}
+
+.container2 {
+  display: flex;
+  width: 95%;
+  margin: 0 auto;
+  height: fit-content;
+  transition: transform 0.5s ease;
+}
+
+.seeMore {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 40px 0;
+}
+
+.seeMore a {
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: -0.02em;
+  cursor: pointer;
+  text-decoration: none;
+  color: #7a6e82;
+}
+
+.cardContainer {
+  width: 95%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.leftChevron,
+.rightChevron {
+  cursor: pointer;
+}
+
+.enabledButton {
+  cursor: pointer;
+}
+
+.disabledButton {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+@media only screen and (max-width: 425px) {
+  .container2 {
+    flex-wrap: wrap;
+  }
+}

@@ -1,0 +1,182 @@
+.images {
+  display: flex;
+  position: relative;
+  margin-top: 100px;
+}
+
+.images .img1 {
+  width: 319.52px;
+  height: 420px;
+}
+
+.images .img2 {
+  width: 630px;
+  height: 421px;
+}
+
+.images .img3 {
+  width: 490px;
+  height: 418px;
+}
+
+.images .img4 {
+  position: absolute;
+  top: -94px;
+  left: 632px;
+  z-index: 999;
+}
+
+.images .img5 {
+  position: absolute;
+  width: 234px;
+  height: 118px;
+  top: 359px;
+  left: 238px;
+}
+
+.images .img6 {
+  position: absolute;
+  width: 398px;
+  height: 304px;
+  top: -23px;
+  left: 321px;
+}
+
+.images .img7 {
+  position: absolute;
+  width: 318px;
+  height: 211px;
+  top: 209px;
+  left: 504px;
+}
+
+.images .img8 {
+  position: absolute;
+  width: 213px;
+  height: 104px;
+  top: 355px;
+  left: 1166px;
+}
+
+.images .img9 {
+  position: absolute;
+  width: 413px;
+  height: 262px;
+  top: 81px;
+  left: 847px;
+}
+
+.images .desc {
+  position: absolute;
+  width: 213px;
+  height: 104px;
+  top: 120px;
+  left: 870px;
+}
+
+.images .desc h2 {
+  margin-bottom: 10px;
+}
+
+.images .desc p {
+  margin-bottom: 25px;
+}
+
+.btnMore {
+  background-color: #ffcc16;
+  width: 370px;
+  height: 53px;
+  border-radius: 5px;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 425px) {
+  .images {
+    margin-top: 100px;
+  }
+  .images .img1 {
+    width: 135px;
+    height: 178px;
+    z-index: 999;
+  }
+
+  .images .img2 {
+    width: 428px;
+    height: 286px;
+    position: absolute;
+  }
+
+  .images .img3 {
+    width: 217px;
+    height: 175px;
+    position: absolute;
+    top: 0;
+    left: 210px;
+  }
+
+  .images .img4 {
+    width: 80px;
+    height: 84px;
+    top: -63px;
+    left: 96px;
+  }
+
+  .images .img5 {
+    width: 94px;
+    height: 47px;
+    top: 250px;
+    left: 134px;
+  }
+
+  .images .img6 {
+    width: 135px;
+    height: 91px;
+    top: 182px;
+    left: 283px;
+    transform: rotate(12deg);
+  }
+
+  .images .img7 {
+    width: 135px;
+    height: 91px;
+    z-index: 999;
+    top: 173px;
+    left: 1px;
+  }
+
+  .images .img8 {
+    width: 117px;
+    height: 57px;
+    top: 258px;
+    left: 308px;
+  }
+
+  .images .img9 {
+    width: 281px;
+    height: 206px;
+    top: 23px;
+    left: 73px;
+    z-index: 1000;
+  }
+
+  .images .desc {
+    top: 43px;
+    left: 91px;
+    z-index: 1001;
+  }
+
+  .desc h2 {
+    font-size: 20px;
+  }
+
+  .desc p {
+    font-size: 14px;
+  }
+
+  .btnMore {
+    width: 246px;
+    height: 48px;
+  }
+}

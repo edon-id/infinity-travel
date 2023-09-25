@@ -1,0 +1,739 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "name": "Касандра",
+      "slug": "Касандра",
+      "country": "Greece"
+    },
+    {
+      "id": 2,
+      "name": "Ситонија",
+      "slug": "Ситонија",
+      "country": "Greece"
+    },
+    {
+      "id": 3,
+      "name": "Лефкада",
+      "slug": "Лефкада",
+      "country": "Greece"
+    },
+    {
+      "id": 4,
+      "name": "Тасос",
+      "slug": "Тасос",
+      "country": "Greece"
+    },
+    {
+      "id": 5,
+      "name": "Сплит",
+      "slug": "Сплит",
+      "country": "Croatia"
+    },
+    {
+      "id": 6,
+      "name": "Задар",
+      "slug": "Задар",
+      "country": "Croatia"
+    },
+    {
+      "id": 7,
+      "name": "Дубровник",
+      "slug": "Дубровник",
+      "country": "Croatia"
+    },
+    {
+      "id": 8,
+      "name": "Шибеник",
+      "slug": "Шибеник",
+      "country": "Croatia"
+    },
+    {
+      "id": 9,
+      "name": "Мале",
+      "slug": "Мале",
+      "country": "Maldives",
+      "destination": "Exotic"
+    },
+    {
+      "id": 10,
+      "name": "Санто",
+      "slug": "Санто",
+      "country": "Domenicana",
+      "destination": "Exotic"
+    },
+    {
+      "id": 11,
+      "name": "Хавана",
+      "slug": "Хавана",
+      "country": "Kuba",
+      "destination": "Exotic"
+    },
+    {
+      "id": 12,
+      "name": "Махе",
+      "slug": "Махе",
+      "country": "Seychelles",
+      "destination": "Exotic"
+    },
+    {
+      "id": 13,
+      "name": "Дубаи",
+      "slug": "Дубаи",
+      "country": "UAE",
+      "destination": "Exotic"
+    },
+    {
+      "id": 14,
+      "name": "Охрид",
+      "slug": "Охрид",
+      "country": "Macedonia"
+    },
+    {
+      "id": 15,
+      "name": "Крушево",
+      "slug": "Крушево",
+      "country": "Macedonia"
+    },
+    {
+      "id": 16,
+      "name": "Берово",
+      "slug": "Берово",
+      "country": "Macedonia"
+    },
+    {
+      "id": 17,
+      "name": "Маврово",
+      "slug": "Маврово",
+      "country": "Macedonia"
+    },
+    {
+      "id": 18,
+      "name": "Струга",
+      "slug": "Струга",
+      "country": "Macedonia"
+    }
+  ],
+  "arrangements": [
+    {
+      "id": 1,
+      "name": "Villa Margariti",
+      "rating": 1,
+      "location": {
+        "country": "Greece",
+        "city": "Касандра"
+      },
+      "description": "10 ноќевања/наем соба",
+      "description2": "80м од плажа",
+      "detailsDesc3": "Villa Margariti is a luxurious apartment nestled in the charming town of Kasandra, Greece. This stunning accommodation offers travelers a serene retreat with modern amenities and breathtaking views of the azure Aegean Sea. The spacious living area is tastefully furnished, creating a cozy ambiance. Guests can unwind on the private terrace, savoring the Mediterranean breeze. With proximity to pristine beaches, historical sites, and vibrant nightlife, Villa Margariti provides an ideal base for exploring the beauty and culture of Kasandra. Experience Greek hospitality at its finest in this idyllic vacation haven.",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [360],
+          "lastMinutePrices": [300]
+        }
+      ],
+      "propertyType": "Apartment"
+    },
+    {
+      "id": 2,
+      "name": "Aegean View",
+      "rating": 2,
+      "location": {
+        "country": "Greece",
+        "city": "Ситонија"
+      },
+      "description": "5 ноќевања/наем соба",
+      "description2": "50м од плажа",
+      "detailsDesc3": "Aegean View apartment in Sithonia, Greece, is a captivating coastal escape. Perched atop a hill, it offers panoramic vistas of the cerulean Aegean Sea, creating an enchanting backdrop for your vacation. This elegantly designed apartment boasts a spacious, well-appointed interior, seamlessly blending comfort and style. The private balcony is a prime spot to savor sunsets and al fresco meals. Explore nearby pristine beaches, charming villages, and rich local culture, or simply relax in the tranquil ambiance of this Greek gem. Aegean View apartment promises an unforgettable, immersive experience on the Sithonia peninsula.",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [370],
+          "lastMinutePrices": [310]
+        }
+      ],
+      "propertyType": "Apartment"
+    },
+    {
+      "id": 3,
+      "name": "Olive Grove Residences",
+      "rating": 3,
+      "location": {
+        "country": "Greece",
+        "city": "Лефкада"
+      },
+      "description": "10 ноќевања/наем соба",
+      "description2": "100м од плажа",
+      "detailsDesc3": "Olive Grove Residences in Lefkada, Greece, offer a tranquil haven amid nature's beauty. Nestled within an ancient olive grove, these charming residences combine rustic elegance with modern comfort. Each villa features spacious, tastefully furnished interiors, while the outdoor terrace offers a serene escape enveloped by centuries-old olive trees. This idyllic retreat provides a gateway to Lefkada's pristine beaches, scenic landscapes, and cultural treasures. Immerse yourself in Greek island life at Olive Grove Residences, where relaxation and exploration harmoniously blend for an unforgettable Mediterranean getaway.",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [380],
+          "lastMinutePrices": [320]
+        }
+      ],
+      "propertyType": "Apartment"
+    },
+    {
+      "id": 4,
+      "name": "Sunset Haven Suites",
+      "rating": 4,
+      "location": {
+        "country": "Greece",
+        "city": "Тасос"
+      },
+      "description": "5 ноќевања/наем соба",
+      "description2": "150м од плажа",
+      "detailsDesc3": "Sunset Haven Suites in Thassos, Greece, is a picturesque escape where the beauty of the island meets luxurious accommodations. Perched on a hillside, these suites offer breathtaking sunset views over the Aegean Sea. The elegantly designed interiors provide a comfortable and stylish retreat, while private balconies and terraces create perfect settings for relaxation. Explore the island's pristine beaches, charming villages, and ancient history, all within easy reach. Experience the magic of Thassos at Sunset Haven Suites, where every day ends with a mesmerizing sunset and memories to last a lifetime.",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [390],
+          "lastMinutePrices": [330]
+        }
+      ],
+      "propertyType": "Apartment"
+    },
+    {
+      "id": 5,
+      "name": "Acropolis Apt",
+      "rating": 5,
+      "location": {
+        "country": "Greece",
+        "city": "Касандра"
+      },
+      "description": "10 ноќевања/наем соба",
+      "description2": "80м од плажа",
+      "detailsDesc3": "Acropolis Apt in Kassandra, Greece, is a splendid retreat that combines modern living with natural beauty. This stylish apartment is ideally situated, offering easy access to both the town's amenities and the stunning coastline. With tasteful decor and comfortable furnishings, it provides a relaxing ambiance for guests. The private balcony or terrace allows you to soak in the Mediterranean sun. Explore pristine beaches, vibrant nightlife, and rich Greek culture during your stay. Acropolis Apt promises an unforgettable Greek getaway, where comfort and convenience harmoniously meet the allure of Kasandra's charm.",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [360],
+          "lastMinutePrices": [300]
+        }
+      ],
+      "propertyType": "Hotel",
+      "availableDate": ["2023-08-16T22:00:00.000Z"]
+    },
+    {
+      "id": 6,
+      "name": "Breeze Residences",
+      "rating": 2,
+      "location": {
+        "country": "Greece",
+        "city": "Ситонија"
+      },
+      "description": "5 ноќевања/наем соба",
+      "description2": "50м од плажа",
+      "detailsDesc3": "Breeze Residences in Sithonia, Greece, is a coastal paradise where the gentle sea breeze meets luxurious living. Nestled on the picturesque shores of Sithonia, these residences offer modern comfort with a touch of Mediterranean charm. Each spacious villa is elegantly designed, providing a tranquil retreat. The private terraces and balconies invite you to unwind while soaking in panoramic sea views. Explore pristine beaches, quaint villages, and rich local culture. At Breeze Residences, you'll discover the perfect blend of relaxation and adventure, creating lasting memories in this enchanting Greek destination.",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [370],
+          "lastMinutePrices": [310]
+        }
+      ],
+      "propertyType": "Hotel",
+      "availableDate": ["2023-08-17T22:00:00.000Z"]
+    },
+    {
+      "id": 7,
+      "name": "Serenity Suites",
+      "rating": 3,
+      "location": {
+        "country": "Greece",
+        "city": "Лефкада"
+      },
+      "description": "10 ноќевања/наем соба",
+      "description2": "100м од плажа",
+      "detailsDesc3": "Serenity Suites in Lefkada, Greece, is a serene oasis of tranquility and elegance. Nestled amidst lush landscapes, these suites offer a perfect blend of modern luxury and natural beauty. Each meticulously designed suite boasts spacious interiors, creating a cozy and sophisticated atmosphere. Private balconies or terraces provide breathtaking views of the surrounding scenery. Explore the island's pristine beaches, charming villages, and vibrant culture, all within easy reach. Serenity Suites promises an idyllic retreat where relaxation and adventure harmoniously converge for an unforgettable Greek experience.",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [380],
+          "lastMinutePrices": [320]
+        }
+      ],
+      "propertyType": "Hotel",
+      "availableDate": ["2023-08-18T22:00:00.000Z"]
+    },
+    {
+      "id": 8,
+      "name": "Garden Flats",
+      "rating": 4,
+      "location": {
+        "country": "Greece",
+        "city": "Тасос"
+      },
+      "description": "5 ноќевања/наем соба",
+      "description2": "150м од плажа",
+      "detailsDesc3": "Garden Flats Hotel in Thassos, Greece, is a tranquil haven where lush greenery meets contemporary comfort. Nestled amid vibrant gardens, these well-appointed flats offer a harmonious blend of modern amenities and natural beauty. Each spacious flat exudes a welcoming ambiance, providing a serene retreat. Private patios and balconies immerse guests in the peaceful surroundings. Explore the island's pristine beaches, charming villages, and rich history, all conveniently accessible. Garden Flats Hotel promises a rejuvenating escape where relaxation and exploration coexist, creating cherished memories on the enchanting island of Thassos.",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [390],
+          "lastMinutePrices": [330]
+        }
+      ],
+      "propertyType": "Hotel",
+      "availableDate": ["2023-08-19T22:00:00.000Z"]
+    },
+    {
+      "id": 9,
+      "name": "Lav Split",
+      "rating": 4,
+      "location": {
+        "country": "Croatia",
+        "city": "Сплит"
+      },
+      "description": "5 ноќевања/наем соба",
+      "description2": "150м од плажа",
+      "detailsDesc3": "",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [390],
+          "lastMinutePrices": [330]
+        }
+      ],
+      "propertyType": "Apartment",
+      "availableDate": ["2023-08-19T22:00:00.000Z"]
+    },
+    {
+      "id": 10,
+      "name": "Lav Zadar",
+      "rating": 3,
+      "location": {
+        "country": "Croatia",
+        "city": "Задар"
+      },
+      "description": "5 ноќевања/наем соба",
+      "description2": "150м од плажа",
+      "detailsDesc3": "",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [390],
+          "lastMinutePrices": [330]
+        }
+      ],
+      "propertyType": "Hotel",
+      "availableDate": ["2023-08-19T22:00:00.000Z"]
+    },
+    {
+      "id": 11,
+      "name": "Hotel Dubrovnik",
+      "rating": 5,
+      "location": {
+        "country": "Croatia",
+        "city": "Дубровник"
+      },
+      "description": "5 ноќевања/наем соба",
+      "description2": "150м од плажа",
+      "detailsDesc3": "",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [390],
+          "lastMinutePrices": [330]
+        }
+      ],
+      "propertyType": "Hotel",
+      "availableDate": ["2023-08-19T22:00:00.000Z"]
+    },
+    {
+      "id": 12,
+      "name": "Hotel Split",
+      "rating": 2,
+      "location": {
+        "country": "Croatia",
+        "city": "Сплит"
+      },
+      "description": "5 ноќевања/наем соба",
+      "description2": "150м од плажа",
+      "detailsDesc3": "",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [320],
+          "lastMinutePrices": [330]
+        }
+      ],
+      "propertyType": "Apartment",
+      "availableDate": ["2023-08-19T22:00:00.000Z"]
+    },
+    {
+      "id": 13,
+      "name": "Sibenik Apartment",
+      "rating": 4,
+      "location": {
+        "country": "Croatia",
+        "city": "Шибеник"
+      },
+      "description": "5 ноќевања/наем соба",
+      "description2": "150м од плажа",
+      "detailsDesc3": "",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [390],
+          "lastMinutePrices": [330]
+        }
+      ],
+      "propertyType": "Apartment",
+      "availableDate": ["2023-08-19T22:00:00.000Z"]
+    },
+    {
+      "id": 14,
+      "name": "Sumpetar Split",
+      "rating": 1,
+      "location": {
+        "country": "Croatia",
+        "city": "Сплит"
+      },
+      "description": "5 ноќевања/наем соба",
+      "description2": "150м од плажа",
+      "detailsDesc3": "",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [390],
+          "lastMinutePrices": [330]
+        }
+      ],
+      "propertyType": "Hotel",
+      "availableDate": ["2023-08-19T22:00:00.000Z"]
+    },
+    {
+      "id": 15,
+      "name": "Hotel Croatia",
+      "rating": 4,
+      "location": {
+        "country": "Croatia",
+        "city": "Дубровник"
+      },
+      "description": "5 ноќевања/наем соба",
+      "description2": "150м од плажа",
+      "detailsDesc3": "",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [590],
+          "lastMinutePrices": [330]
+        }
+      ],
+      "propertyType": "Apartment",
+      "availableDate": ["2023-08-19T22:00:00.000Z"]
+    },
+    {
+      "id": 16,
+      "name": "Zadar Apartments",
+      "rating": 2,
+      "location": {
+        "country": "Croatia",
+        "city": "Задар"
+      },
+      "description": "5 ноќевања/наем соба",
+      "description2": "150м од плажа",
+      "detailsDesc3": "",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [390],
+          "lastMinutePrices": [330]
+        }
+      ],
+      "propertyType": "Hotel",
+      "availableDate": ["2023-08-19T22:00:00.000Z"]
+    },
+    {
+      "id": 17,
+      "name": "Villa Maldives",
+      "rating": 5,
+      "location": {
+        "country": "Maldives",
+        "city": "Мале",
+        "destination": "Exotic"
+      },
+      "description": "10 ноќевања/наем соба",
+      "description2": "80м од плажа",
+      "detailsDesc3": "Villa Maldives is a luxurious apartment nestled in the charming town of Male, Maldives. This stunning accommodation offers travelers a serene retreat with modern amenities and breathtaking views of the azure Aegean Sea. The spacious living area is tastefully furnished, creating a cozy ambiance. Guests can unwind on the private terrace, savoring the Mediterranean breeze. With proximity to pristine beaches, historical sites, and vibrant nightlife, Villa Maldives provides an ideal base for exploring the beauty and culture of Male.",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [360],
+          "lastMinutePrices": [300]
+        }
+      ],
+      "propertyType": "Apartment"
+    },
+    {
+      "id": 18,
+      "name": "Villa Domenicana",
+      "rating": 5,
+      "location": {
+        "country": "Domenicana",
+        "city": "Санто",
+        "destination": "Exotic"
+      },
+      "description": "10 ноќевања/наем соба",
+      "description2": "80м од плажа",
+      "detailsDesc3": "Villa Domenicana is a luxurious apartment nestled in the charming town of Santo Domingo, Domenicana. This stunning accommodation offers travelers a serene retreat with modern amenities and breathtaking views of the azure Aegean Sea. The spacious living area is tastefully furnished, creating a cozy ambiance. Guests can unwind on the private terrace, savoring the Mediterranean breeze. With proximity to pristine beaches, historical sites, and vibrant nightlife, Villa Domenicana provides an ideal base for exploring the beauty and culture of Male.",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [360],
+          "lastMinutePrices": [300]
+        }
+      ],
+      "propertyType": "Hotel"
+    },
+    {
+      "id": 19,
+      "name": "Villa Kuba",
+      "rating": 4,
+      "location": {
+        "country": "Kuba",
+        "city": "Хавана",
+        "destination": "Exotic"
+      },
+      "description": "10 ноќевања/наем соба",
+      "description2": "80м од плажа",
+      "detailsDesc3": "Villa Kuba is a luxurious apartment nestled in the charming town of Havana, Kuba. This stunning accommodation offers travelers a serene retreat with modern amenities and breathtaking views of the azure Aegean Sea. The spacious living area is tastefully furnished, creating a cozy ambiance. Guests can unwind on the private terrace, savoring the Mediterranean breeze. With proximity to pristine beaches, historical sites, and vibrant nightlife, Villa Kuba provides an ideal base for exploring the beauty and culture of Havana.",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [360],
+          "lastMinutePrices": [300]
+        }
+      ],
+      "propertyType": "Apartment"
+    },
+    {
+      "id": 20,
+      "name": "Villa Seychelles",
+      "rating": 4,
+      "location": {
+        "country": "Seychelles",
+        "city": "Махе",
+        "destination": "Exotic"
+      },
+      "description": "10 ноќевања/наем соба",
+      "description2": "80м од плажа",
+      "detailsDesc3": "Villa Seychelles is a luxurious apartment nestled in the charming town of Mahe, Seychelles. This stunning accommodation offers travelers a serene retreat with modern amenities and breathtaking views of the azure Aegean Sea. The spacious living area is tastefully furnished, creating a cozy ambiance. Guests can unwind on the private terrace, savoring the Mediterranean breeze. With proximity to pristine beaches, historical sites, and vibrant nightlife, Villa Seychelles provides an ideal base for exploring the beauty and culture of Mahe.",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [360],
+          "lastMinutePrices": [300]
+        }
+      ],
+      "propertyType": "Hotel"
+    },
+    {
+      "id": 21,
+      "name": "Villa Dubai",
+      "rating": 5,
+      "location": {
+        "country": "UAE",
+        "city": "Дубаи",
+        "destination": "Exotic"
+      },
+      "description": "10 ноќевања/наем соба",
+      "description2": "80м од плажа",
+      "detailsDesc3": "Villa Dubai is a luxurious apartment nestled in the charming town of Dubai, UAE. This stunning accommodation offers travelers a serene retreat with modern amenities and breathtaking views of the azure Aegean Sea. The spacious living area is tastefully furnished, creating a cozy ambiance. Guests can unwind on the private terrace, savoring the Mediterranean breeze. With proximity to pristine beaches, historical sites, and vibrant nightlife, Villa Dubai provides an ideal base for exploring the beauty and culture of Dubai.",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [360],
+          "lastMinutePrices": [300]
+        }
+      ],
+      "propertyType": "Hotel"
+    },
+    {
+      "id": 22,
+      "name": "Villa Ohrid",
+      "rating": 5,
+      "location": {
+        "country": "Macedonia",
+        "city": "Охрид"
+      },
+      "description": "10 ноќевања/наем соба",
+      "description2": "80м од плажа",
+      "detailsDesc3": "Villa Ohrid is a luxurious apartment nestled in the charming town of Ohrid, Macedonia. This stunning accommodation offers travelers a serene retreat with modern amenities and breathtaking views of the azure Aegean Sea. The spacious living area is tastefully furnished, creating a cozy ambiance. Guests can unwind on the private terrace, savoring the Mediterranean breeze. With proximity to pristine beaches, historical sites, and vibrant nightlife, Villa Ohrid provides an ideal base for exploring the beauty and culture of Ohrid.",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [360],
+          "lastMinutePrices": [300]
+        }
+      ],
+      "propertyType": "Apartment"
+    },
+    {
+      "id": 23,
+      "name": "Villa Krusevo",
+      "rating": 5,
+      "location": {
+        "country": "Macedonia",
+        "city": "Крушево"
+      },
+      "description": "10 ноќевања/наем соба",
+      "description2": "80м од плажа",
+      "detailsDesc3": "Villa Krusevo is a luxurious apartment nestled in the charming town of Krusevo, Macedonia. This stunning accommodation offers travelers a serene retreat with modern amenities and breathtaking views of the azure Aegean Sea. The spacious living area is tastefully furnished, creating a cozy ambiance. Guests can unwind on the private terrace, savoring the Mediterranean breeze. With proximity to pristine beaches, historical sites, and vibrant nightlife, Villa Krusevo provides an ideal base for exploring the beauty and culture of Krusevo.",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [360],
+          "lastMinutePrices": [300]
+        }
+      ],
+      "propertyType": "Hotel"
+    },
+    {
+      "id": 24,
+      "name": "Villa Berovo",
+      "rating": 4,
+      "location": {
+        "country": "Macedonia",
+        "city": "Берово"
+      },
+      "description": "10 ноќевања/наем соба",
+      "description2": "80м од плажа",
+      "detailsDesc3": "Villa Berovo is a luxurious apartment nestled in the charming town of Berovo, Macedonia. This stunning accommodation offers travelers a serene retreat with modern amenities and breathtaking views of the azure Aegean Sea. The spacious living area is tastefully furnished, creating a cozy ambiance. Guests can unwind on the private terrace, savoring the Mediterranean breeze. With proximity to pristine beaches, historical sites, and vibrant nightlife, Villa Berovo provides an ideal base for exploring the beauty and culture of Berovo.",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [360],
+          "lastMinutePrices": [300]
+        }
+      ],
+      "propertyType": "Apartment"
+    },
+    {
+      "id": 25,
+      "name": "Villa Mavrovo",
+      "rating": 4,
+      "location": {
+        "country": "Macedonia",
+        "city": "Маврово"
+      },
+      "description": "10 ноќевања/наем соба",
+      "description2": "80м од плажа",
+      "detailsDesc3": "Villa Mavrovo is a luxurious apartment nestled in the charming town of Mavrovo, Macedonia. This stunning accommodation offers travelers a serene retreat with modern amenities and breathtaking views of the azure Aegean Sea. The spacious living area is tastefully furnished, creating a cozy ambiance. Guests can unwind on the private terrace, savoring the Mediterranean breeze. With proximity to pristine beaches, historical sites, and vibrant nightlife, Villa Mavrovo provides an ideal base for exploring the beauty and culture of Маврово.",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [360],
+          "lastMinutePrices": [300]
+        }
+      ],
+      "propertyType": "Hotel"
+    },
+    {
+      "id": 26,
+      "name": "Villa Struga",
+      "rating": 5,
+      "location": {
+        "country": "Macedonia",
+        "city": "Струга"
+      },
+      "description": "10 ноќевања/наем соба",
+      "description2": "80м од плажа",
+      "detailsDesc3": "Villa Struga is a luxurious apartment nestled in the charming town of Struga, Macedonia. This stunning accommodation offers travelers a serene retreat with modern amenities and breathtaking views of the azure Aegean Sea. The spacious living area is tastefully furnished, creating a cozy ambiance. Guests can unwind on the private terrace, savoring the Mediterranean breeze. With proximity to pristine beaches, historical sites, and vibrant nightlife, Villa Struga provides an ideal base for exploring the beauty and culture of Struga.",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [360],
+          "lastMinutePrices": [300]
+        }
+      ],
+      "propertyType": "Hotel"
+    },
+    {
+      "id": 27,
+      "name": "Berovo",
+      "rating": 4,
+      "location": {
+        "country": "Macedonia",
+        "city": "Берово"
+      },
+      "description": "10 ноќевања/наем соба",
+      "description2": "80м од плажа",
+      "detailsDesc3": "Berovo is a luxurious apartment nestled in the charming town of Berovo, Macedonia. This stunning accommodation offers travelers a serene retreat with modern amenities and breathtaking views of the azure Aegean Sea. The spacious living area is tastefully furnished, creating a cozy ambiance. Guests can unwind on the private terrace, savoring the Mediterranean breeze. With proximity to pristine beaches, historical sites, and vibrant nightlife, Berovo provides an ideal base for exploring the beauty and culture of Berovo.",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [360],
+          "lastMinutePrices": [300]
+        }
+      ],
+      "propertyType": "Apartment"
+    },
+    {
+      "id": 28,
+      "name": "Mavrovo",
+      "rating": 4,
+      "location": {
+        "country": "Macedonia",
+        "city": "Маврово"
+      },
+      "description": "10 ноќевања/наем соба",
+      "description2": "80м од плажа",
+      "detailsDesc3": "Mavrovo is a luxurious apartment nestled in the charming town of Mavrovo, Macedonia. This stunning accommodation offers travelers a serene retreat with modern amenities and breathtaking views of the azure Aegean Sea. The spacious living area is tastefully furnished, creating a cozy ambiance. Guests can unwind on the private terrace, savoring the Mediterranean breeze. With proximity to pristine beaches, historical sites, and vibrant nightlife, Mavrovo provides an ideal base for exploring the beauty and culture of Маврово.",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [360],
+          "lastMinutePrices": [300]
+        }
+      ],
+      "propertyType": "Hotel"
+    },
+    {
+      "id": 29,
+      "name": "Struga",
+      "rating": 5,
+      "location": {
+        "country": "Macedonia",
+        "city": "Струга"
+      },
+      "description": "10 ноќевања/наем соба",
+      "description2": "80м од плажа",
+      "detailsDesc3": "Struga is a luxurious apartment nestled in the charming town of Struga, Macedonia. This stunning accommodation offers travelers a serene retreat with modern amenities and breathtaking views of the azure Aegean Sea. The spacious living area is tastefully furnished, creating a cozy ambiance. Guests can unwind on the private terrace, savoring the Mediterranean breeze. With proximity to pristine beaches, historical sites, and vibrant nightlife, Struga provides an ideal base for exploring the beauty and culture of Struga.",
+      "detailsDesc4": "",
+      "prices": [
+        {
+          "prices": [360],
+          "lastMinutePrices": [300]
+        }
+      ],
+      "propertyType": "Hotel"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "img": "hotel1",
+      "hotelname": "Acropolis Apt",
+      "stars": 3,
+      "description": "Acropolis Apartments, where luxurious coastal living meets the tranquility of Neos Marmaras."
+    },
+    {
+      "id": 2,
+      "img": "hotel2",
+      "hotelname": "Aegean View",
+      "stars": 5,
+      "description": "Nestled on the enchanting Sithonia peninsula in Greece, Aegean View Apartments offer an idyllic retreat."
+    },
+    {
+      "id": 3,
+      "img": "hotel3",
+      "hotelname": "Sunset Haven Suites",
+      "stars": 4,
+      "description": "Sunset Haven Suites is a haven of tranquility, where luxury and natural beauty harmoniously coexist."
+    }
+  ]
+}

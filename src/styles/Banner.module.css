@@ -1,0 +1,76 @@
+.banner {
+  background: url("/homepagebanner.png") no-repeat center center;
+  background-size: cover;
+  height: 55vh;
+  width: 100%;
+  position: relative;
+}
+
+.bannerFrame {
+  position: absolute;
+  top: 140px;
+  left: 164px;
+}
+
+.frame {
+  position: relative;
+}
+
+.desc {
+  position: absolute;
+  top: 25px;
+  left: 23px;
+}
+
+.desc h2 {
+  padding-bottom: 10px;
+}
+
+.desc p {
+  padding-bottom: 10px;
+}
+
+.input {
+  display: flex;
+  margin-top: 10px;
+}
+
+.input input {
+  border: 1px solid #667080;
+  padding: 4px;
+  width: 300px;
+  border-radius: 6px;
+}
+
+.input img {
+  background-color: #210d2f;
+  border-radius: 5px;
+  height: 48px;
+  width: 50px;
+}
+
+@media only screen and (max-width: 425px) {
+  .banner {
+    height: 318px;
+  }
+  .bannerFrame {
+    top: -1px;
+    left: 95px;
+  }
+  .bannerFrame img {
+    width: 247px;
+    height: 198px;
+  }
+
+  .desc h2 {
+    font-size: 19px;
+  }
+
+  .desc p {
+    font-size: 12px;
+  }
+
+  .input {
+    display: none;
+  }
+}

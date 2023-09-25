@@ -1,0 +1,148 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 95%;
+  margin: 0 auto;
+  padding: 40px 0;
+}
+
+.header .leftLine {
+  height: 100%;
+  width: 580px;
+  border-top: 1px solid gray;
+  margin-right: 20px;
+}
+
+.header .rightLine {
+  height: 100%;
+  width: 580px;
+  border-top: 1px solid gray;
+  margin-left: 20px;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.mice,
+.team,
+.tailor {
+  display: flex;
+  padding: 10px;
+  margin: 40px 0;
+}
+
+.mice img {
+  width: 528px;
+  height: 315px;
+}
+
+.miceDesc {
+  display: flex;
+  flex-direction: column;
+  margin-right: 50px;
+}
+
+.miceDesc h3 {
+  margin-bottom: 20px;
+}
+
+.miceDesc p {
+  margin-bottom: 20px;
+}
+
+/* ////////////////////////  */
+
+.team img {
+  width: 528px;
+  height: 315px;
+  margin-right: 80px;
+}
+
+.teamDesc {
+  display: flex;
+  flex-direction: column;
+}
+
+.teamDesc h3 {
+  margin-bottom: 20px;
+}
+
+.teamDesc p {
+  margin-bottom: 20px;
+}
+
+/* ////////////////////////  */
+
+.tailor img {
+  width: 528px;
+  height: 315px;
+}
+
+.tailorDesc {
+  display: flex;
+  flex-direction: column;
+  margin-right: 50px;
+}
+
+.tailorDesc h3 {
+  margin-bottom: 20px;
+}
+
+.tailorDesc p {
+  margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 425px) {
+  .header {
+    padding: 20px 0;
+  }
+  .container {
+    width: 98%;
+  }
+
+  .mice {
+    flex-wrap: wrap;
+    margin: 10px 0;
+  }
+
+  .mice img {
+    width: 398px;
+    height: 237px;
+  }
+
+  .miceDesc {
+    margin: 0;
+  }
+
+  .team {
+    flex-wrap: wrap;
+    margin: 10px 0;
+  }
+
+  .team img {
+    width: 398px;
+    height: 237px;
+    order: 2;
+  }
+
+  .teamDesc h3 {
+    margin-top: 20px;
+  }
+
+  .tailor {
+    flex-wrap: wrap;
+    margin: 10px 0;
+  }
+
+  .tailor img {
+    width: 398px;
+    height: 237px;
+  }
+
+  .tailorDesc {
+    margin: 0;
+  }
+}

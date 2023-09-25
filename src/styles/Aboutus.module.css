@@ -1,0 +1,72 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 95%;
+  margin: 0 auto;
+  padding: 40px 0;
+}
+
+.header .leftLine {
+  height: 100%;
+  width: 580px;
+  border-top: 1px solid gray;
+  margin-right: 50px;
+}
+
+.header .rightLine {
+  height: 100%;
+  width: 580px;
+  border-top: 1px solid gray;
+  margin-left: 50px;
+}
+
+.container {
+  position: relative;
+}
+
+.banner {
+  position: absolute;
+  top: 58px;
+  left: 778px;
+}
+
+.desc h2 {
+  margin-bottom: 20px;
+}
+
+.desc {
+  position: absolute;
+  top: 104px;
+  left: 795px;
+  width: 500px;
+  padding: 20px;
+}
+
+@media only screen and (max-width: 425px) {
+  .container .image {
+    width: 425px;
+    height: 796px;
+  }
+
+  .banner {
+    width: 276px;
+    height: 606px;
+    left: 78px;
+  }
+
+  .desc {
+    top: 84px;
+    left: 84px;
+    width: 281px;
+    padding: 20px;
+  }
+
+  .desc h2 {
+    font-size: 18px;
+  }
+
+  .desc p {
+    font-size: 14px;
+  }
+}
