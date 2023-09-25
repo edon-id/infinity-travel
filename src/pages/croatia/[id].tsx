@@ -34,7 +34,7 @@ const CardDetail: NextPage<Props> = ({ arrangement }) => {
     <>
       <div className={style.header}>
         <div className={style.leftLine}></div>
-        <h3>{arrangement.name}</h3>
+        <h3>{arrangement?.name}</h3>
         <div className={style.rightLine}></div>
       </div>
       <div className={style.container}>
@@ -61,7 +61,7 @@ const CardDetail: NextPage<Props> = ({ arrangement }) => {
           </div>
         </div>
         <div className={style.hotelName} id="opis">
-          <h3>{arrangement.name}</h3>
+          <h3>{arrangement?.name}</h3>
         </div>
         <div className={style.description}>
           <p>
