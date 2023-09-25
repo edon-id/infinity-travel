@@ -14,7 +14,7 @@ export default function Document() {
           rel="stylesheet"
         />
         <link rel="icon" href="/favicon.ico" />
-        <script src="https://kit.fontawesome.com/79229d5957.js"></script>
+        <script src="https://kit.fontawesome.com/79229d5957.js" defer></script>
       </Head>
       <body>
         <Main />
